@@ -16,6 +16,9 @@
 
 ![mobile-screenshot](./assets/screenshot/mobile-device-size.jpeg)
 
+### Collapsible Menu for Mobile Devices
+![collapsible-menu](./assets/screenshot/collapsible-menu.jpeg)
+
 ### Large Screen Size Device
 
 ![laptop-screenshot](./assets/screenshot/large-device-size.jpeg)
