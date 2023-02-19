@@ -3,6 +3,9 @@
  This project is made for the problem statement given by the Ineuorn.ai during their hiring process for the position of Software Trainee Engineer.
 
 
+ Here is the [live website](https://clone-discord-ineuron.netlify.app/) of this project.
+
+
 # Take a look
 
 ## I have designed the page for two screen sizes- 
